@@ -13,4 +13,7 @@
 ## Installing packages
 1. After activating your virtualenv, use 'pip install requests' to install the requests library.
 
-2. 
+2. Install BeautifulSoup library using 'pip install beautifusoup4'.
+
+## Getting the info from the webpage
+Look into scraper.py (with previous commits)
